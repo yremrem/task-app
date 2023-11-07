@@ -78,7 +78,7 @@ The code is structured in such a way to make it easy to modify and add new pages
     git clone https://github.com/yremrem/task-app.git task-project
 
     # Enter the project directory
-    cd laravel-vue-dashboard
+    cd task-project
 
     # Copy env file and add your own database and mail credentials
     cp .env.example .env
