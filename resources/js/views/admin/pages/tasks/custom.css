@@ -1,0 +1,36 @@
+
+.toasted .success, .toasted.toasted-success {
+    border-radius: 2px;
+    min-height: 38px;
+    line-height: 1.1em;
+    background-color: #1cc88a;
+    padding: 15px 40px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+}
+
+.toasted .warning, .toasted.toasted-warning {
+    border-radius: 2px;
+    min-height: 38px;
+    line-height: 1.1em;
+    background-color: #f6c23e;
+    padding: 15px 40px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+}
+
+.toasted .info, .toasted.toasted-info {
+    border-radius: 2px;
+    min-height: 38px;
+    line-height: 1.1em;
+    background-color: #36b9cc;
+    padding: 15px 40px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+}
